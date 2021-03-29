@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/MrNevil/COVID-19-Vaccination-progress/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FMrNevil%2FCOVID-19-Vaccination-progress%2Fblob%2Fmaster%2Fcovid-vaccination-progress.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
