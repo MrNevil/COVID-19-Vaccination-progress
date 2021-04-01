@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrNevil/COVID-19-Vaccination-progress/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FMrNevil%2FCOVID-19-Vaccination-progress%2Fblob%2Fmaster%2Fcovid-vaccination-progress.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/mrnevil-covid-1-nation-progress-35ggwfzc/notebooks/covid-vaccination-progress.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
  
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/MrNevil/COVID-19-Vaccination-progress/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FMrNevil%2FCOVID-19-Vaccination-progress%2Fblob%2Fmaster%2Fcovid-vaccination-progress.ipynb
+https://hub.gke2.mybinder.org/user/mrnevil-covid-1-nation-progress-35ggwfzc/notebooks/covid-vaccination-progress.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
