@@ -1,5 +1,6 @@
 # COVID 19 Vaccination progress analysis
 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/mrnevil-covid-1-nation-progress-35ggwfzc/notebooks/covid-vaccination-progress.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
